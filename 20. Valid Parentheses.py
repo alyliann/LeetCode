@@ -1,5 +1,5 @@
 #LeetCode ID: alyliann
-#Submission: https://leetcode.com/problems/valid-parentheses/submissions/968303084/
+#Submission: https://leetcode.com/submissions/detail/968303084/
 
 class Solution(object):
     def isValid(self, s):
